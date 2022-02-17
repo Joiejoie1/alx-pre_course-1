@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
@@ -11,3 +12,12 @@ echo "ALX School"
 echo "ALX School is so cool!"
 >>>>>>> main
 >>>>>>> up to date
+=======
+echo "ALX School"
+=======
+echo "ALX School is so cool!"
+>>>>>>> main
+=======
+echo "ALX School is so cool!"
+>>>>>>> main
+>>>>>>> e84e93d478d40bdc5a3e2e492a689eca6e1c2fa2
